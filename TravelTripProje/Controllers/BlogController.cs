@@ -20,7 +20,7 @@ namespace TravelTripProje.Controllers
             return View(by);
         }
 
-       
+       //Furkan Eryılmaz
 
         public ActionResult BlogDetay(int id)
         {
